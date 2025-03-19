@@ -1,31 +1,31 @@
 h1 {
   font-size: 40px;
   font-family: Arial, sans-serif;
-  color: #003366; /* Added a dark blue color for better readability */
+  color: #003366; 
 }
 
 h2 {
   font-size: 25px;
   font-family: Arial, sans-serif;
-  color: #0056b3; /* Slightly different blue for distinction */
+  color: #0056b3; 
 }
 
 h3 {
   font-family: Arial, sans-serif;
   font-size: 20px;
-  color: #333; /* Dark gray for contrast */
+  color: #333; 
 }
 
 p {
   font-size: 14px;
   font-family: Arial, sans-serif;
-  line-height: 1.6; /* Improves readability */
-  color: #444; /* Slightly softer than black */
+  line-height: 1.6; 
+  color: #444; 
 }
 
 table {
   width: 100%;
-  border-collapse: collapse; /* Ensures borders merge cleanly */
+  border-collapse: collapse; 
 }
 
 th, td {
@@ -39,7 +39,7 @@ tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
-/* New Styles for the Academic Information Section */
+/* For the Academic Information Section */
 #academic-info {
   background-color: #f8f9fa;
   padding: 20px;
